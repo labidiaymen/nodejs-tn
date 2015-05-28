@@ -1,0 +1,48 @@
+{
+  "name": "jsy",
+  "version": "0.0.13",
+  "description": "A lightweight JavaScript Library contains the missing javascript functions, and make your code readable.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labidiaymen/jsy"
+  },
+  "keywords": [
+    "jsy",
+    "missing",
+    "functions",
+    "readable"
+  ],
+  "author": {
+    "name": "Labidi Aymen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labidiaymen/jsy/issues"
+  },
+  "homepage": "https://labidiaymen.github.io/jsy",
+  "_id": "jsy@0.0.13",
+  "_shasum": "563c4191b19c3d26ffc985166476873b4f921a9a",
+  "_from": "jsy@",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "labidiaymen",
+    "email": "labidiaymen@outlook.com"
+  },
+  "maintainers": [
+    {
+      "name": "labidiaymen",
+      "email": "labidiaymen@outlook.com"
+    }
+  ],
+  "dist": {
+    "shasum": "563c4191b19c3d26ffc985166476873b4f921a9a",
+    "tarball": "http://registry.npmjs.org/jsy/-/jsy-0.0.13.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/jsy/-/jsy-0.0.13.tgz",
+  "readme": "ERROR: No README data found!"
+}
